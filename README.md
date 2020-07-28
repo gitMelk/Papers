@@ -1,4 +1,6 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
 # Single author papers
 
 This is a repository with the written papers over the years. 
@@ -13,7 +15,7 @@ how IoT can be used in the healthcare field in particular using LoRa.
 The following papers have been written by some collegues and me. 
 In this page I'm reporting the papers titles and their abstract, you can check them out by clicking on their respective links. 
 
-- [Multi-class classification from single lead ECG recordings](https://www.google.com/)
+- [Multi-class classification from single lead ECG recordings](https://github.com/uniDEI-pd/Multi-class-classification-from-single-lead-ECG-recordings)
 >The automatic classification of heart rhythms using
 short time single lead ECG recordings is a challenging task that
 has been widely studied recently.
@@ -29,7 +31,7 @@ We obtained similar results, with a slightly better result using
 the unweighted loss function, with an accuracy of 81.18% vs
 80.01% and a F1 score of 0.77 vs 0.76.
 
-- [A Motor Imagery based Brain Computer Interface to restore upper limb movements](https://www.google.com/)
+- [A Motor Imagery based Brain Computer Interface to restore upper limb movements](https://github.com/uniDEI-pd/A-Motor-Imagery-based-Brain-Computer-Interface-to-restore-upper-limb-movements)
 >Spinal Cord Injury (SCI) is a condition that
 causes, for patients suffering from it, a huge lack of autonomy.
 This is very expensive, both for families and society, as people
